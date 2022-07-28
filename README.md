@@ -38,15 +38,15 @@ First of all, we start with collecting the images for deep learning using our we
 ## Screenshorts
 <p align="center">
   <br>
-    <img src="ss/call.png" height="350px" width="350px"><br>
+    <img src="ss/call.png" height="350px" width="550px"><br>
    <b>Call Sign</b><br>
-    <img src="ss/nice.png" height="350px" width="350px"><br>
+    <img src="ss/nice.png" height="350px" width="550px"><br>
     <b>Nice Sign</b><br>
-    <img src="ss/start.png" height="350px" width="350px"><br>
+    <img src="ss/start.png" height="350px" width="550px"><br>
     <b>Start Sign</b><br>
-    <img src="ss/stop.png" height="350px" width="350px"><br>
+    <img src="ss/stop.png" height="350px" width="550px"><br>
     <b>Stop Sign</b><br>
-    <img src="ss/victory.png" height="350px" width="350px"><br>
+    <img src="ss/victory.png" height="350px" width="550px"><br>
     <b>Victory Sign</b><br>
 </p>
 
