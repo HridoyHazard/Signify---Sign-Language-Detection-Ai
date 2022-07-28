@@ -35,4 +35,4 @@ Processing.
 First of all, we start with collecting the images for deep learning using our webcam and OpenCV. We take a handsome amount of pictures of each class of signs. Then we label the images for sign language detection using LabelImg. To do that, we crop out the irrelevant region to remove the noise, mark only the portion of the image containing the sign relevant to us, and then label the image. This will produce an label map file containing the annotations.We then create the record file to fix how many signs we’re going to train our system with as well as their order. It creates record files for both training and testing.After training the system with the datasets, it is then time to test it.
 
 ## Screenshorts
-
+here is the ss 
