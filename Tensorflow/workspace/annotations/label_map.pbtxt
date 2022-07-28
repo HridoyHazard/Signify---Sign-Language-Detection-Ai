@@ -1,12 +1,20 @@
 item { 
-	name:'Hello'
+	name:'Stop'
 	id:1
 }
 item { 
-	name:'I Love You'
+	name:'Call'
 	id:2
 }
 item { 
-	name:'Nice'
+	name:'Start'
 	id:3
+}
+item { 
+	name:'Victory'
+	id:4
+}
+item { 
+	name:'Nice'
+	id:5
 }
