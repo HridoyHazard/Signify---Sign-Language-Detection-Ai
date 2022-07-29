@@ -35,6 +35,7 @@ Processing.
 ## How It Works
 First of all, we start with collecting the images for deep learning using our webcam and OpenCV. We take a handsome amount of pictures of each class of signs. Then we label the images for sign language detection using LabelImg. To do that, we crop out the irrelevant region to remove the noise, mark only the portion of the image containing the sign relevant to us, and then label the image. This will produce an label map file containing the annotations.We then create the record file to fix how many signs we’re going to train our system with as well as their order. It creates record files for both training and testing.After training the system with the datasets, it is then time to test it.
 
+## Tutorial : [Youtube Link ](https://youtu.be/cpqQ0-TOVMA)
 ## Screenshorts
 <p align="center">
   <br>
@@ -49,6 +50,7 @@ First of all, we start with collecting the images for deep learning using our we
     <img src="ss/victory.png" height="350px" width="550px"><br>
     <b>Victory Sign</b><br>
 </p>
+
 
 ## Future Work
 Future work will be extended for further improvement in recognition accuracy and also for movement detection  of hand for word recognition. We will try to detect alphabets , numbers also.
