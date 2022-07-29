@@ -1,5 +1,5 @@
 <h3 align="center" >Signify - A Sign Language Detection </h1>
-## Overview
+
 The Idea Of “Signify” A Sign Language Detection Using Image 
 Processing. In this project, we present a technique to detect American Sign Language (ASL) from images that performs in real time.
 
